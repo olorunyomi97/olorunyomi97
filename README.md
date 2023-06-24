@@ -13,7 +13,7 @@ No one really cared who i was till is started coding. As a multi-disciplinary so
 - 🌱 I’m currently taking a deeper dive in **Systems Architecture**
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **olorunyomi97@gmail.com**
-- ⚡ Fun fact: **god of anything UI; Throw in a shit load of functionality. I'm Him! 😎**
+- ⚡ Fun fact: A gym rat, Anime is not a cartoon 😎**
 
 ### Tools & Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
