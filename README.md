@@ -1,7 +1,7 @@
 
 ![Pretty lights](prettylights.gif)
 
-# Hi, I'm Abimbola Cole <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Abimbola Cole <img src="https://gifdb.com/images/high/demon-slayer-kimetsu-no-yaiba-pillars-58p09xdtwuoa3xuq.gif" width="28px" alt="hi">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=flat-square)](https://www.instagram.com/abimbola_cole_/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://https://www.linkedin.com/in/abimbola-cole-balogun-84a68011a/)
