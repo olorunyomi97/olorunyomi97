@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Anime, Gym Rat and I write code 
 -->
 
-![desktop-wallpaper-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-background-demon-slayer-gif](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/58523430-41c0-4374-9d2b-f3a0960de51d)
+![images](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/84dc531f-48cc-4295-86b5-db30dd5eb47a)
