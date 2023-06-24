@@ -1,4 +1,5 @@
-![desktop-wallpaper-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-background-demon-slayer-gif](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/e15df389-1541-45b9-a86a-4d6e75fbed72)
+
+![tanjiro-fire](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/c9ad08d0-48ce-45ab-8a65-0e1da9fbe151) width="28px"
 
 Hi there 👋
 I am Abimbola Cole
