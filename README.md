@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Anime, Gym Rat and I write code 
 -->
 
-![tanjiro-fire](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/31d7ca2c-6f27-4fc6-8348-3c19d6d308b6)
+![desktop-wallpaper-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-background-demon-slayer-gif](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/58523430-41c0-4374-9d2b-f3a0960de51d)
