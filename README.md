@@ -5,7 +5,7 @@
 # Hi, I'm Abimbola Cole <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=flat-square)](https://www.instagram.com/abimbola_cole_/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://https://www.linkedin.com/in/abimbola-cole-balogun-84a68011a/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/abimbola-cole-balogun-84a68011a/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Abimbola_Cole_)
 
 Nobody really cared who i was till is started coding. As a multi-disciplinary software engineer, I've demonstrated a track record of developing innovative and captivating web solutions for clients worldwide. My passion for leveraging software development to solve complex challenges is matched only by my unwavering commitment to excellence. With a keen eye for detail and a penchant for staying ahead of the curve, I'm dedicated to delivering unparalleled results that exceed expectations.
