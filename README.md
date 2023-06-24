@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![Uploading Cool-Purple-Anime-GIFs.gif…]()
+- 🌱 I’m currently learning ...![Cool-Purple-Anime-GIFs](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/565de63d-5982-4218-9d76-0918496ed19b)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I'm Him
 - ⚡ Fun fact: Anime, Gym Rat and I write code 
 -->
+![Uploading Cool-Purple-Anime-GIFs.gif…]()
