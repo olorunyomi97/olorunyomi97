@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I'm Him
 - ⚡ Fun fact: Anime, Gym Rat and I write code 
 -->
-![demon-slayer-anime-fight](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/e5d5c9e3-90c9-4e5d-9d23-71d41c7905a5)
+
+![tanjiro-fire](https://github.com/olorunyomi97/olorunyomi97/assets/60350428/31d7ca2c-6f27-4fc6-8348-3c19d6d308b6)
