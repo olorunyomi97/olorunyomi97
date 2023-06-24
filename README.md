@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/abimbola-cole-balogun-84a68011a/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Abimbola_Cole_)
 
-Nobody really cared who i was till is started coding. As a multi-disciplinary software engineer, I've demonstrated a track record of developing innovative and captivating web solutions for clients worldwide. My passion for leveraging software development to solve complex challenges is matched only by my unwavering commitment to excellence. With a keen eye for detail and a penchant for staying ahead of the curve, I'm dedicated to delivering unparalleled results that exceed expectations.
+No one really cared who i was till is started coding. As a multi-disciplinary software engineer, I've demonstrated a track record of developing innovative and captivating web solutions for clients worldwide. My passion for leveraging software development to solve complex challenges is matched only by my unwavering commitment to excellence. With a keen eye for detail and a penchant for staying ahead of the curve, I'm dedicated to delivering unparalleled results that exceed expectations.
 
 - 🌱 I’m currently taking a deeper dive in **Systems Architecture**
 - 👯 I’m looking to collaborate on any open source projects
